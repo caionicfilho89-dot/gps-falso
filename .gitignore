@@ -1,0 +1,6 @@
+# cache do Python
+__pycache__/
+*.pyc
+
+# saídas de teste
+*.nmea
